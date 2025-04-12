@@ -44,6 +44,9 @@ This project focuses on performing exploratory data analysis on a housing datase
 
 ### Results and Insights
 
+![image](https://github.com/user-attachments/assets/be4fb6d3-fc0b-443c-9b24-17caad41b161)
+
+
 *   **"NEAR BAY" areas exhibit higher average house values compared to other proximities.** This suggests location significantly impacts property prices.
 *   **Median income shows a positive correlation with median house value.** As income increases, house values tend to increase as well.
 *   **High-value homes can exist even in low-income regions**, potentially due to desirable locations or other factors not captured in income data alone.
