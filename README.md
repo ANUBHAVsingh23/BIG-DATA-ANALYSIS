@@ -1,4 +1,4 @@
-# BIG-DATA-ANALYSIS
+# CODTECH Internship - Data Analysis Tasks
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
