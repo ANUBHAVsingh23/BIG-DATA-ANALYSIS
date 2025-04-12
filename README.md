@@ -40,7 +40,7 @@ This project focuses on performing exploratory data analysis on a housing datase
 *   **Libraries:** PySpark, matplotlib, pandas
 *   **Dataset:** `housing.csv` (California Housing dataset)
 *   **Notebooks:**
-    *   [Link to Task 1 Notebook (task1.ipynb)](link-to-your-task1.ipynb)
+    *   [Link to Task 1 Notebook (task1.ipynb)](task1.ipynb)
 
 ### Results and Insights
 
